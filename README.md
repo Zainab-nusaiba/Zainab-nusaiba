@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 💬 Ask me about **Depression🧪**
+- 💬 Ask me about **animals**
 
-- 💙 I love **Crying in the corner**
+- 💙 I love **sketching and shading**
 
 - ⚡ Fun fact: **Java is a type of caffeine☕. Literally!**
 
