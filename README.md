@@ -3,7 +3,7 @@
 
 <h1 align="center"></h1>
 
-### Hi there! its Zain.👋
+### Hi there! It's Zain.👋
 
 - 🔭 I’m currently working on **ReactJS, NextJS**
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 💬 Ask me about **animals**
+- 💬 Ask me about **songs and art**
 
-- 💙 I love **sketching and shading**
+- 💙 I love **sketching**
 
 - ⚡ Fun fact: **Java is a type of caffeine☕. Literally!**
 
